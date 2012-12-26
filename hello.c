@@ -14,6 +14,7 @@ int main () {
 	printf("Test the pull request\n");
 	printf("test pull request without jenkins doing git clone.\n");
 	printf("added gerrit. \n");
+	printf("added gerrit2 see if jenkins runs. \n");
 	
 	return 0;
 }
