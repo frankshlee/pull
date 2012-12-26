@@ -17,6 +17,7 @@ int main () {
 	printf("added gerrit2 see if jenkins runs. \n");
 	printf("test gerrit pull-gerrit. \n");
 	printf("pull-gerrit 2. \n");
+	printf("added non-interactive users. \n");
 	
 	return 0;
 }
