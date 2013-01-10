@@ -1,2 +1,1 @@
-
-Hello pull
+Only weapons
