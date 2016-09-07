@@ -1,1 +1,1 @@
-Only weapons
+Only store
